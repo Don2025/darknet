@@ -1,0 +1,102 @@
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cstdlib
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xkeycheck.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\yvals_core.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\builtin_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\channel_descriptor.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\common_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\device_double_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\device_double_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\device_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\device_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\host_config.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\host_defines.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\math_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\math_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\crt\sm_70_rt.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cublas_api.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cublas_v2.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuComplex.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_device_runtime_api.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_fp16.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_fp16.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_surface_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_texture_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cudnn.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\curand.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\device_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\device_launch_parameters.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\device_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\driver_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\driver_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\library_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_30_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_32_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_32_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_35_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_35_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_60_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_61_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\surface_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\surface_indirect_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\surface_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\texture_fetch_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\texture_indirect_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\texture_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\vector_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\vector_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\vector_types.h
+D:\Code\darknet\include\darknet.h
+D:\Code\darknet\src\blas.h
+D:\Code\darknet\src\blas_kernels.cu
+D:\Code\darknet\src\dark_cuda.h
+D:\Code\darknet\src\list.h
+D:\Code\darknet\src\tree.h
+D:\Code\darknet\src\utils.h
+D:\mingw64\x86_64-w64-mingw32\include\assert.h
+D:\mingw64\x86_64-w64-mingw32\include\corecrt_startup.h
+D:\mingw64\x86_64-w64-mingw32\include\crtdefs.h
+D:\mingw64\x86_64-w64-mingw32\include\errno.h
+D:\mingw64\x86_64-w64-mingw32\include\float.h
+D:\mingw64\x86_64-w64-mingw32\include\limits.h
+D:\mingw64\x86_64-w64-mingw32\include\malloc.h
+D:\mingw64\x86_64-w64-mingw32\include\math.h
+D:\mingw64\x86_64-w64-mingw32\include\process.h
+D:\mingw64\x86_64-w64-mingw32\include\pthread.h
+D:\mingw64\x86_64-w64-mingw32\include\pthread_compat.h
+D:\mingw64\x86_64-w64-mingw32\include\pthread_signal.h
+D:\mingw64\x86_64-w64-mingw32\include\pthread_time.h
+D:\mingw64\x86_64-w64-mingw32\include\pthread_unistd.h
+D:\mingw64\x86_64-w64-mingw32\include\sal.h
+D:\mingw64\x86_64-w64-mingw32\include\sdks\_mingw_ddk.h
+D:\mingw64\x86_64-w64-mingw32\include\sdks\_mingw_directx.h
+D:\mingw64\x86_64-w64-mingw32\include\sec_api\stdio_s.h
+D:\mingw64\x86_64-w64-mingw32\include\sec_api\stdlib_s.h
+D:\mingw64\x86_64-w64-mingw32\include\sec_api\string_s.h
+D:\mingw64\x86_64-w64-mingw32\include\sec_api\sys\timeb_s.h
+D:\mingw64\x86_64-w64-mingw32\include\signal.h
+D:\mingw64\x86_64-w64-mingw32\include\stddef.h
+D:\mingw64\x86_64-w64-mingw32\include\stdint.h
+D:\mingw64\x86_64-w64-mingw32\include\stdio.h
+D:\mingw64\x86_64-w64-mingw32\include\stdlib.h
+D:\mingw64\x86_64-w64-mingw32\include\string.h
+D:\mingw64\x86_64-w64-mingw32\include\swprintf.inl
+D:\mingw64\x86_64-w64-mingw32\include\sys\timeb.h
+D:\mingw64\x86_64-w64-mingw32\include\sys\types.h
+D:\mingw64\x86_64-w64-mingw32\include\time.h
+D:\mingw64\x86_64-w64-mingw32\include\vadefs.h
+D:\mingw64\x86_64-w64-mingw32\include\yvals.h
+D:\mingw64\x86_64-w64-mingw32\include\_mingw.h
+D:\mingw64\x86_64-w64-mingw32\include\_mingw_mac.h
+D:\mingw64\x86_64-w64-mingw32\include\_mingw_off_t.h
+D:\mingw64\x86_64-w64-mingw32\include\_mingw_print_pop.h
+D:\mingw64\x86_64-w64-mingw32\include\_mingw_print_push.h
+D:\mingw64\x86_64-w64-mingw32\include\_mingw_secapi.h
+D:\mingw64\x86_64-w64-mingw32\include\_timeval.h
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h

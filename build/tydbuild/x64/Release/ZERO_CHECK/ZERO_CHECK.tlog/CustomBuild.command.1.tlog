@@ -1,0 +1,10 @@
+^D:\CODE\DARKNET\BUILD\TYDBUILD\CMAKEFILES\15F6BA5665BF51C9F331EC57FAF3D167\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SD:/Code/darknet -BD:/Code/darknet/build/tydbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Code/darknet/build/tydbuild/Darknet.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

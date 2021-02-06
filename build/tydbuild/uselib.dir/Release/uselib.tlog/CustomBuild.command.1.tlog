@@ -1,0 +1,10 @@
+^D:\CODE\DARKNET\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SD:/Code/darknet -BD:/Code/darknet/build/tydbuild --check-stamp-file D:/Code/darknet/build/tydbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

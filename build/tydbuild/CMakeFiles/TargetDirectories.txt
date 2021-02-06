@@ -1,0 +1,7 @@
+D:/Code/darknet/build/tydbuild/CMakeFiles/dark.dir
+D:/Code/darknet/build/tydbuild/CMakeFiles/uselib.dir
+D:/Code/darknet/build/tydbuild/CMakeFiles/uselib_track.dir
+D:/Code/darknet/build/tydbuild/CMakeFiles/INSTALL.dir
+D:/Code/darknet/build/tydbuild/CMakeFiles/darknet.dir
+D:/Code/darknet/build/tydbuild/CMakeFiles/ALL_BUILD.dir
+D:/Code/darknet/build/tydbuild/CMakeFiles/ZERO_CHECK.dir
